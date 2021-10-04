@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://modest-banach-d569
 
 # In this projects a have used Bootstrap. 
 # With this app you can learn many programing laguage.
-# Extra thing i have made in this app is sign up from.
+# Extra thing i have made in this app is a sign up from.
 
 ### `npm start`
 
