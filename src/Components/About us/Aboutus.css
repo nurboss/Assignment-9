@@ -1,0 +1,10 @@
+.flex{
+    width: 100%;
+    display: flex;
+}
+.image{
+    width: 50%;
+}
+.text{
+    margin-top: 100px;
+}

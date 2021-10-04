@@ -1,0 +1,15 @@
+.flex{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    border: none;
+    padding: 10px 20px;
+    background-color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin-top: 20px;
+}
